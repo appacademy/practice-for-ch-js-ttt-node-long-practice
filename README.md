@@ -2,7 +2,7 @@
 
 Let's write a Tic-Tac-Toe game!
 
-## Learning Goals
+## Learning goals
 
 By the end of this project, you should be able to
 
@@ -10,7 +10,7 @@ By the end of this project, you should be able to
 * Use `readline` in Node with ease
 * Think through how to approach creating an AI
 
-## JS: TTT
+## TTT in JS
 
 * Write a `Board` class in __ttt/board.js__.
   * There should be no UI in your `Board`, except maybe to
